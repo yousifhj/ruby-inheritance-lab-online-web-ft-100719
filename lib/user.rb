@@ -5,7 +5,7 @@ class User
   def iniitialize(first_name, last_name)
     @first_name = first_name
     @last_name = last_name
-    KNOWLDGE = []
+    KNOWLEDGE = []
   end
   
 end 
