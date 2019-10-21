@@ -8,7 +8,8 @@ class Student < User
     @knowledge << teaching 
   end 
 
- def 
+ def knowledge
+   knowledge
  end 
  
 end
